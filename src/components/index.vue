@@ -1,15 +1,14 @@
 <template>
-  <div id="app">
-    <router-view/>
+  <div>
+    Validity Month
   </div>
 </template>
 
 <script>
 export default {
-  name: 'App'
+  name: 'ValidatyMonth',
 }
 </script>
 
 <style>
-
 </style>
